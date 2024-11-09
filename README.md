@@ -36,8 +36,10 @@ run the script
 ```
 python3 main.py
 ```
-**choose 1 to do transactions** or
-**choose 2 to do playgames (grows&garden)**
+| **Selection**| **Function** |
+|--------------|-------------------------|
+| **Number 1** | Start auto TF           |
+| **Number 2** | Start games (Grows & Graden)|
 ## Run grow and open garden boxes
 
 **First You Need To Get Your Refresh Token**
