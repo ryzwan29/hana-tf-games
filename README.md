@@ -7,25 +7,13 @@
 - Screen
 
 ## Instalation
-```bash
-git clone https://github.com/ryzwan29/hana-tf-games.git
-cd hana-tf-games
+Run this script
+```
+source <(curl -s https://raw.githubusercontent.com/ryzwan29/hana-tf-games/main/install.sh)
 ```
 Create screen
 ```
 screen -R
-```
-Create Python environment
-```
-python3 -m venv hana
-```
-Activte environment
-```
-source hana/bin/activate
-```
-install the packages
-```
-pip3 install -r requirements.txt
 ```
 **Edit pvkey.txt and input Private Key**
 ```
