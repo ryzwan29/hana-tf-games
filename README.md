@@ -17,7 +17,7 @@
 ```
 Run this script
 ```
-source <(curl -s https://raw.githubusercontent.com/ryzwan29/hana-tf-games/main/install.sh)
+source <(curl -s https://raw.githubusercontent.com/ryzwan29/hana-tf-games/main/quick-installation.sh)
 ```
 Create screen
 ```
