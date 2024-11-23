@@ -1,3 +1,3 @@
-aiohttp
-web3
-colorama
+aiohttp==3.10.10 
+web3==6.20.1
+colorama==0.4.6
